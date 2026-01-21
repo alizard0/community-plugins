@@ -1753,7 +1753,7 @@ __metadata:
     "@backstage/backend-plugin-api": "npm:^1.4.2"
     "@backstage/catalog-client": "npm:^1.11.0"
     "@backstage/cli": "npm:^0.34.1"
-    "@backstage/plugin-scaffolder-node": "npm:^0.11.0"
+    "@backstage/plugin-scaffolder-node": "npm:^0.11.2"
     openid-client: "npm:^5.6.5"
   languageName: unknown
   linkType: soft
@@ -3614,7 +3614,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/plugin-scaffolder-node@npm:^0.11.0, @backstage/plugin-scaffolder-node@npm:^0.11.1":
+"@backstage/plugin-scaffolder-node@npm:^0.11.1":
   version: 0.11.1
   resolution: "@backstage/plugin-scaffolder-node@npm:0.11.1"
   dependencies:
@@ -3639,6 +3639,34 @@ __metadata:
     zod: "npm:^3.22.4"
     zod-to-json-schema: "npm:^3.20.4"
   checksum: 10/803c6cddda7e6fec003ebf956ffb3e5aec0ad4707864019d4efd5bfa4357c108134490353b8241bebb8e3426a0720a8d4dd8eaa0878e592170847818603e513e
+  languageName: node
+  linkType: hard
+
+"@backstage/plugin-scaffolder-node@npm:^0.11.2":
+  version: 0.11.2
+  resolution: "@backstage/plugin-scaffolder-node@npm:0.11.2"
+  dependencies:
+    "@backstage/backend-plugin-api": "npm:^1.4.3"
+    "@backstage/catalog-model": "npm:^1.7.5"
+    "@backstage/errors": "npm:^1.2.7"
+    "@backstage/integration": "npm:^1.18.0"
+    "@backstage/plugin-permission-common": "npm:^0.9.1"
+    "@backstage/plugin-scaffolder-common": "npm:^1.7.1"
+    "@backstage/types": "npm:^1.2.2"
+    "@isomorphic-git/pgp-plugin": "npm:^0.0.7"
+    concat-stream: "npm:^2.0.0"
+    fs-extra: "npm:^11.2.0"
+    globby: "npm:^11.0.0"
+    isomorphic-git: "npm:^1.23.0"
+    jsonschema: "npm:^1.5.0"
+    lodash: "npm:^4.17.21"
+    p-limit: "npm:^3.1.0"
+    tar: "npm:^6.1.12"
+    winston: "npm:^3.2.1"
+    winston-transport: "npm:^4.7.0"
+    zod: "npm:^3.22.4"
+    zod-to-json-schema: "npm:^3.20.4"
+  checksum: 10/5b89de9d0ccf081a0acbd319bd2833903d9079edbd61ee41da2bd2f93cdca29b466a5e8ad924696912a43fe0a74887500eb2020ad5422b1add75459520e19627
   languageName: node
   linkType: hard
 
