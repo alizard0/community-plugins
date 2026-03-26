@@ -43,7 +43,7 @@
     "@backstage/plugin-scaffolder-node": "^0.12.1",
     "fs-extra": "^11.2.0",
     "lodash": "^4.17.21",
-    "yaml": "^2.0.0"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@backstage/backend-test-utils": "^1.10.1",
