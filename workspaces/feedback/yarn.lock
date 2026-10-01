@@ -1454,7 +1454,7 @@ __metadata:
     knex: "npm:^3.1.0"
     msw: "npm:1.3.5"
     node-fetch: "npm:^2.6.7"
-    nodemailer: "npm:^9.0.0"
+    nodemailer: "npm:^10.0.9"
     react: "npm:^16.13.1 || ^17.0.0 || ^18.0.0"
     react-dom: "npm:^18"
     react-router-dom: "npm:^6.26.1"
@@ -20089,10 +20089,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^9.0.0":
-  version: 9.0.3
-  resolution: "nodemailer@npm:9.0.3"
-  checksum: 10/0118b6fc1e2f459b2b953c4827167a8c8422e1df2fb5055df3af307f4eff4fc71e7c19eb5aff923a6dcc26242e9c1008d63595117b4519a2698591dac64ee82c
+"nodemailer@npm:^10.0.9":
+  version: 10.0.9
+  resolution: "nodemailer@npm:10.0.9"
+  checksum: 10/8e758c61612ad87fa1ef8b292277511c0c293edf1b35527bd46bf0b22550f2a2d93abe0cb897a0b4d3047dbd80d522e7e45f7c2c857a66c00c74db6f86c30f9a
   languageName: node
   linkType: hard
 
