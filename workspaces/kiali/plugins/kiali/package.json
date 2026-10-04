@@ -59,7 +59,7 @@
     "json-beautify": "1.1.1",
     "lodash": "^4.17.21",
     "micro-memoize": "4.2.0",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "prop-types": "^15.8.1",
     "react-ace": "9.5.0",
     "react-copy-to-clipboard": "5.x",
